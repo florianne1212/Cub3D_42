@@ -2,7 +2,7 @@
 
 cub3D project of 42 Cursus
 
-result : Succes 100%
+result : Succes 101%
 
 how to use :
 - make
